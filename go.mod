@@ -1,3 +1,3 @@
-module github.com/devit-tel/gotime
+module github.com/zier/gotime
 
-go 1.13
+go 1.17
